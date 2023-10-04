@@ -1,2 +1,2 @@
 # Back-ussy
-This is mainly a place to keep a backup of ceryain config files i have laying about.
+This is mainly a place to keep a backup of certain config files i have laying about.
